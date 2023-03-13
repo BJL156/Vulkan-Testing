@@ -1,0 +1,7 @@
+﻿  Main.cpp
+  Generating code
+  8 of 1014 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    11 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Vulkan Testing.vcxproj -> C:\Users\bjl15\C C++\Libraries\Vulkan\Testing\Vulkan Testing\x64\Release\Vulkan Testing.exe
