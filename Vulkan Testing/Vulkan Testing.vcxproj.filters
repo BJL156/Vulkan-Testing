@@ -28,4 +28,9 @@
     <None Include="resources\shaders\vert.spv" />
     <None Include="resources\shaders\frag.spv" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="resources\textures\image.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
